@@ -1,4 +1,4 @@
-# Hi there, I'm [Ahmed Abu Ali] 👋
+# Hi there, I'm Ahmed Abu Ali 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a love for creating innovative solutions and exploring new technologies. Here are some of my notable projects:
 
