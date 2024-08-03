@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ## Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmed-ali-b866b8249/) [Gmail](a7med.ali10.2003@gmail.com)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ahmed-ali-b866b8249/)
+Gmail: a7med.ali10.2003@gmail.com
 
 Happy coding! 🚀
